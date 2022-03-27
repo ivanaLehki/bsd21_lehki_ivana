@@ -25,3 +25,5 @@ My name is **Ivana Lehki**, I am a student of *Business Software Developement* i
 # Excersises
 
 ### 1. [Excersise 1](D:\Documents\FH02\SS2022\Konfig\Uebung1\excersise1.md)
+### 2. [Exercise 2](exercise2.md)
+
