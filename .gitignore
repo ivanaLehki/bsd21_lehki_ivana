@@ -1,4 +1,6 @@
-excersise1.html
-excersise1.pdf
+*.html
+*.pdf
+
 .idea
+
 target/
