@@ -11,9 +11,9 @@
 #### After creating the maven project in IntelliJ, the pom.xml file has also been created. To the file I added few lines from the Assignment sheet.
 
 ### I ran the programm and in IntelliJ, there were some new folders visible, that were not there before I ran the programm.
-### ![First Screenshot](first_screenshot.PNG)
+### ![First Screenshot](src/main/resources/images/first_screenshot.PNG)
 #### New files that have been created are the *test* and the *target* file, aswell as folder management in the _**src**_ file with *main* and *test* as subfolders, which is also due to the packaging of code (all of the created folders are in the src folder).
 
 #### At the end I compiled it using the _**mvn compile**_ and startet the main class to the run the programm:
-* #### after compiling with _mvn compile_: ![compile](third_screenshot.PNG) 
-* #### after running the programm: ![run](second_screenshot.PNG)
+* #### after compiling with _mvn compile_: ![compile](src/main/resources/images/third_screenshot.PNG) 
+* #### after running the programm: ![run](src/main/resources/images/second_screenshot.PNG)
