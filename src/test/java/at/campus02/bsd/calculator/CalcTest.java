@@ -50,6 +50,15 @@ public class CalcTest
         Assertions.assertEquals(result, calc.minus(5, 3));
     }
 
+    @Test
+    public void faculty(){
+        Assertions.assertEquals(1, calc.faculty(0));
+        Assertions.assertEquals(0, calc.faculty(-1));
+        Assertions.assertEquals(6, calc.faculty(3));
+
+
+    }
+
 
 
 }

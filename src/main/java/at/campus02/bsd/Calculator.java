@@ -22,4 +22,17 @@ public class Calculator
         double multiply = number1 * number2;
         return multiply;
     }
+
+    public int faculty(int n){
+        if (n < 0){
+            return 0;
+        }
+        else if (n >= 0 && n <= 1){
+            return 1;
+        }
+
+        else
+            n *= faculty(n-1);
+            return n;
+    }
 }

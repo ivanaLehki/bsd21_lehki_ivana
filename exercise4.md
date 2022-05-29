@@ -11,4 +11,9 @@
 ### Tests have passed with the Coverage of 100%
 ## ![ex4_1](src/main/resources/images/ex4_1.PNG)
 
+### Faculty
+#### While creating a method that calculates faculty of a given number, the first assignment was to leave the method empty and make it always return 0. 
+#### For the method, another test was written which failed, because the method was not implementef and it always returned 0.
+## ![ex4_2](src/main/resources/images/ex4_2.PNG)
 
+#### After getting a failed test, the method was succesfully implemented and all testcases have passed.
