@@ -27,6 +27,7 @@ My name is **Ivana Lehki**, I am a student of *Business Software Developement* i
 ### 1. [Exercise 1](exercise1.md)
 ### 2. [Exercise 2](exercise2.md)
 ### 3. [Exercise 3](exercise3.md)
+### 4. [Exercise 4](exercise6.md)
 
 # Information about the Author:
 ### 1. [My github link](https://github.com/ivanaLehki/bsd21_lehki_ivana)
