@@ -2,7 +2,7 @@ package at.campus02.bsd;
 
 /**
  * Calculator class
- * @authors Ivana Lehki
+ * @author Ivana Lehki
  */
 public class Calculator
 {
